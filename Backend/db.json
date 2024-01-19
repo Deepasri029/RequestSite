@@ -1,0 +1,22 @@
+{
+  "bank": [
+    {
+      "bname": "ICICI",
+      "bbranch": "BTM",
+      "bcode": "123ICICI",
+      "id": 1
+    },
+    {
+      "bname": "INDIAN",
+      "bbranch": "JPNagar",
+      "bcode": "AAS123",
+      "id": 2
+    },
+    {
+      "bname": "canara",
+      "bbranch": "btm",
+      "bcode": "ddd123",
+      "id": 3
+    }
+  ]
+}
