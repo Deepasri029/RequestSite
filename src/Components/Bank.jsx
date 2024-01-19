@@ -43,7 +43,6 @@ const Bank = () => {
             <button onClick={FormHandle}>Submit</button>
             <br />
             <br />
-            <br />
         </div>
     )
 }
