@@ -40,6 +40,10 @@ const Bank = () => {
             <input type="text" value={code} onChange={Code} />
             <br />
             <br />
+            <label htmlFor="">IFSC: </label>
+            <input type="text" value={code} onChange={Code} />
+            <br />
+            <br />
             <button onClick={FormHandle}>Submit</button>
             <br />
             <br />
